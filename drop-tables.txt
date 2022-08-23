@@ -1,0 +1,6 @@
+drop table if exists "TransactionInputs" Cascade;
+drop table if exists "TransactionOutputs" Cascade;
+drop table if exists "Transactions" Cascade;
+drop table if exists "Blocks" Cascade;
+drop table if exists "Wallets" Cascade;
+drop table if exists "__EFMigrationsHistory" Cascade;
